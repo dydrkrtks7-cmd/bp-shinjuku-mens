@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[ 마포 럭셔리 단체 가라오케 예약 가이드]]></title>
+  <title><![CDATA[VIP 단체 모임]]></title>
   <link>https://mens-esthe.space</link>
-  <description><![CDATA[ VIP 단체 모임 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Fri, 05 Jun 2026 17:09:41 GMT</pubDate>
-  <lastBuildDate>Fri, 05 Jun 2026 17:09:41 GMT</lastBuildDate>
+  <description><![CDATA[VIP 단체 모임 - 마포 럭셔리 단체 가라오케 예약 가이드 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Mon, 08 Jun 2026 15:51:44 GMT</pubDate>
+  <lastBuildDate>Mon, 08 Jun 2026 15:51:44 GMT</lastBuildDate>
   <atom:link href="https://mens-esthe.space/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[ 마포 럭셔리 단체 가라오케 예약 가이드 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://mens-esthe.space/</link>
-      <guid isPermaLink="true">https://mens-esthe.space/</guid>
-      <description><![CDATA[ VIP 단체 모임 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Fri, 05 Jun 2026 17:09:41 GMT</pubDate>
+      <title><![CDATA[마포 VIP 룸 예약, 2 인 전용 전략이 깨는 게임 이론 같은 가격 협상법]]></title>
+      <link>https://mens-esthe.space/posts/guide-001.html</link>
+      <guid isPermaLink="true">https://mens-esthe.space/posts/guide-001.html</guid>
+      <description><![CDATA[boardgame, terraforming mars:1.3, table top, gaming, strategy game, 2 players, vintage board game, luxury room, karaoke, vip room, mapo, hwa-dong, int]]></description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[마포 럭셔리 단체 가라오케 예약 가이드 - 테라포밍 마스 2인 밸런스 붕괴 분석]]></title>
+      <link>https://mens-esthe.space/posts/guide-002.html</link>
+      <guid isPermaLink="true">https://mens-esthe.space/posts/guide-002.html</guid>
+      <description><![CDATA[테라포밍 마스 2인 전략에서 베너스 확장이 게임 밸런스를 무너뜨리는 시나리오는 단순한 수치 분석을 넘어 비즈니스 모델의 안정성과 직결된다. Fantasy Flight Games 에서 출시된 2023 년판 `Venus Expansion` 데이터에 따르면, 2 인 플레이 ]]></description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[마포 럭셔리 단체 가라오케 룸 선택 시 눈치 보는 법, 아식스 14OG 인솔 로고 오류 코드까지]]></title>
+      <link>https://mens-esthe.space/posts/major_compare-003.html</link>
+      <guid isPermaLink="true">https://mens-esthe.space/posts/major_compare-003.html</guid>
+      <description><![CDATA[야, 여기 왔으면 그거 한번 들어봐. 내가 나이키 전 직원으로 일했던 때의 내부 유출 루트를 통해 입수한 정보가 아니더라도, 2023 년 재발매 버전인 아식스 젤 카야노 14 OG 아이보리 컬러웨이는 일반적인 상점 진열과 다르게 인솔 로고 프린트가 미세하게 수정됐어. ]]></description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
